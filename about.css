@@ -1,0 +1,36 @@
+
+* {background-color: }
+.column1 {
+  width:40%;
+  height:100%;
+  float:left;
+}
+
+.column1 h1 {
+  text-align:right;
+}
+
+.headshot {
+
+  width:450px;
+  margin:auto;
+
+  /* This is the one thing you should definitely change! As it's pointing to Shaunalynn's picture right now! */
+  background-color="black";
+  background-size:contain;
+}
+
+.column2 {
+  width:56%;
+  height:100%;
+  float:right;
+  padding:8% 2% 0 2%;
+  background-color: coral
+}
+
+body {
+  margin:0;
+  padding:0;
+  font-family:Georgia ;
+  font-size:22px;
+  }
